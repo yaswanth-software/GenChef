@@ -24,7 +24,7 @@ Healthy Option (low oil, high nutrition).
 
 Quick Option (fast to prepare in ~5 minutes).
 
-🛠 Tech Stack
+Tech Stack
 
 Frontend: React.js (or Streamlit for a quick prototype UI)
 
